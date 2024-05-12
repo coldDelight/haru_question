@@ -7,5 +7,14 @@ data class DomainQnA(
     val quote: String,
     val quoteAuthor: String,
     val id: Int,
-    val a_id:List<Int>
+    val a_id: List<Int>
 )
+
+data class Stu(
+    val name: String,
+    val sid: Int,
+    val grade:Int
+
+
+    )
+

@@ -14,7 +14,7 @@ android {
         applicationId "com.colddelight.haru_question"
         minSdk 26
         targetSdk 32
-        versionCode 4
+        versionCode 5
         versionName "1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
